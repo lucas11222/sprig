@@ -249,7 +249,7 @@ typedef struct {
                                     "                    \n"
                                     "                    \n"
                                     "                    \n"
-                                    "                    \n"
+                                    " Hello World!       \n"
                                     " Please upload      \n"
                                     " a game.            \n"
                                     "                    \n"
@@ -257,7 +257,7 @@ typedef struct {
                                     "                    \n"
                                     "                    \n"
                                     "                    \n"
-                                    "                    \n"
+                                    " I love Sprig       \n"
                                     " sprig.hackclub.com \n";
 
 void render_game_menu_screen(char *buffer, Welcome_State welcome_state) {
